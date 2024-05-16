@@ -8,7 +8,6 @@ import { GlobalStyles } from "./styles/global";
 
 
 
-
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <AuthProvider>
     <ThemeProvider>
